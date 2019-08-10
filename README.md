@@ -2,7 +2,10 @@
 [![Downloads](https://pepy.tech/badge/netmiko)](https://pepy.tech/project/netmiko)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
-lifeofdave edit to netmiko
+WARNING - This is a crude botch edit to the original Netmiko lib to add support for a tp-link Jetstream switch
+=======
+
+Original library: https://github.com/ktbyers/netmiko
 
 Netmiko
 =======
