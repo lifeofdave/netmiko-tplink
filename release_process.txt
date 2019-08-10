@@ -1,0 +1,18 @@
+
+# Use pynetcio machine
+
+# NEED TO CONVERT OVER TO USE A WHEEL
+# python setup.py sdist bdist_wheel
+
+# Make sure you have rolled the version in __init__.py
+
+# Merge into master / checkout master (use PR in GitHub for this)
+
+# Check FIX issues in _release.sh
+
+# Run ./_release.sh
+
+# Create a tag for the version
+$ git tag -a v1.4.1 -m "Version 1.4.1 Release"
+$ git push origin <tag_name>
+
